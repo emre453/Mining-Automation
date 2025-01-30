@@ -1,0 +1,13 @@
+1. Launch the game. 
+2. Press F10 to open the settings menu.
+3. Switch to windowed mode and set the resolution to 1024x768.
+4. Go to the Game Options section.**
+   - Decline Michelle Help.
+   - Decline Quest Help.
+   - Refuse Trade.
+   - Decline Whisper.
+   - Enable Multi Core.
+   - Check the Hide Chat Window box.
+5. Go to the Effect Options section and disable all effects.
+
+Follow these steps to configure the game settings.
