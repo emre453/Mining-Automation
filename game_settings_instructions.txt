@@ -1,3 +1,6 @@
+1. Copy the Python folder to the "C:\Python" directory.
+2. Ensure that the installation is compatible with Python 3.11.
+
 1. Launch the game. 
 2. Press F10 to open the settings menu.
 3. Switch to windowed mode and set the resolution to 1024x768.
